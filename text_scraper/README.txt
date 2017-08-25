@@ -1,5 +1,7 @@
  								Open Text_Bot.py and make changes as instructed in comments.
 								
+								run command : "scrapy scrawl Text_Bot"
+								
 								Extracted_Links.csv will appear here.
 
  								You will have to make certain changes to the CSV file.
